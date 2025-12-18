@@ -52,20 +52,12 @@ python data/generators/historical_flight_generator.py
 
 ### 3. Create Configuration Files
 
-Mosify these in `assets/resources/`:
-
-**aircraft_fleet.csv**
-
-**crew_requirements.csv**
-
-**regulations.csv**
-
-**time_off_requests.csv** (optional)
+Modify these in `assets/resources/`: **aircraft_fleet.csv**, **crew_requirements.csv**, **regulations.csv**, **time_off_requests.csv** (optional)
 
 ### 4. Run Scheduler
 
 ```bash
-python main.py
+python crew_rostering/crew_scheduler.py
 ```
 
 Results saved to: `assets/output/crew_schedule_output.csv`
