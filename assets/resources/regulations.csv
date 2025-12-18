@@ -1,0 +1,22 @@
+constraint_name,value,unit,notes
+max_flight_time_hours_28_days,100,hours,Any 28 consecutive days - DONE
+max_flight_time_hours_year,900,hours,Any calendar year - DONE
+max_flight_time_hours_12_months,1000,hours,Any 12 consecutive calendar months - DONE
+max_duty_time_hours_7_days,60,hours,Any 7 consecutive days - DONE
+max_duty_time_hours_28_days,190,hours,Any 28 consecutive days - DONE
+max_flight_duty_period_hours,13,hours,Maximum flight duty period (baseline 2 sectors) - DONE
+min_weekly_rest_days,2,days,Local days off in any 14 consecutive days - DONE
+max_sectors_day,6,sectors,Practical maximum sectors per duty - DONE
+min_fdp_hours,11,hours,Minimum FDP after sector reductions (6+ sectors)
+min_rest_hours,12,hours,Minimum rest between duties at home base
+min_rest_absolute,10,hours,Absolute minimum rest (commander discretion)
+max_fdp_extension,2,hours,Commander discretion for unforeseen circumstances
+max_night_duties,3,consecutive,Maximum consecutive duties starting 02:00-04:59
+wocl_start,2,hour,Window of Circadian Low start time (02:00)
+wocl_end,6,hour,Window of Circadian Low end time (05:59)
+wocl_fdp_reduction_min,1,hours,Minimum FDP reduction when duty in WOCL
+wocl_fdp_reduction_max,2,hours,Maximum FDP reduction when duty in WOCL
+wocl_early_0200_0259,11.0,hours,Max FDP 2 sectors starting 02:00-02:59
+wocl_early_0300_0359,11.5,hours,Max FDP 2 sectors starting 03:00-03:59
+wocl_early_0400_0459,12.0,hours,Max FDP 2 sectors starting 04:00-04:59
+wocl_early_0500_0559,12.5,hours,Max FDP 2 sectors starting 05:00-05:59

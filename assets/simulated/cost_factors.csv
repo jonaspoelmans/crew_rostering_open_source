@@ -1,0 +1,14 @@
+cost_type,category,amount,currency,unit
+Salary,Captain,450,EUR,hour
+Salary,First Officer,280,EUR,hour
+Salary,Flight Attendant,85,EUR,hour
+Overtime,Captain,675,EUR,hour
+Overtime,First Officer,420,EUR,hour
+Overtime,Flight Attendant,128,EUR,hour
+Per Diem,Domestic,45,EUR,day
+Per Diem,International,75,EUR,day
+Hotel,Standard,120,EUR,night
+Hotel,Premium,180,EUR,night
+Deadhead,Per Hour,150,EUR,hour
+Training,Type Rating,15000,EUR,course
+Training,Recurrent,3500,EUR,course

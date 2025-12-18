@@ -1,0 +1,551 @@
+crew_id,role,qualifications,purser,seniority,monthly_hours_limit,yearly_hours_limit,current_month_flight_time_hours,current_month_duty_time_hours,last_11_calendar_months_flight_time_hours,current_calendar_year_flight_time_hours
+C1,Captain,B738,NO,19,90,900,0,0,0,0
+C2,Captain,B738,NO,19,90,900,0,0,0,0
+C3,Captain,B738,NO,23,90,900,0,0,0,0
+C4,Captain,B738,NO,20,90,900,0,0,0,0
+C5,Captain,B738,NO,21,90,900,0,0,0,0
+C6,Captain,B738,NO,19,90,900,0,0,0,0
+C7,Captain,B738,NO,19,90,900,0,0,0,0
+C8,Captain,B738,NO,16,90,900,0,0,0,0
+C9,Captain,B738,NO,21,90,900,0,0,0,0
+C10,Captain,B738,NO,22,90,900,0,0,0,0
+C11,Captain,B738,NO,22,90,900,0,0,0,0
+C12,Captain,B738,NO,14,90,900,0,0,0,0
+C13,Captain,B738,NO,14,90,900,0,0,0,0
+C14,Captain,B738,NO,20,90,900,0,0,0,0
+C15,Captain,B738,NO,18,90,900,0,0,0,0
+C16,Captain,B738,NO,21,90,900,0,0,0,0
+C17,Captain,B738,NO,15,90,900,0,0,0,0
+C18,Captain,DH8D,NO,19,90,900,0,0,0,0
+C19,Captain,DH8D,NO,14,90,900,0,0,0,0
+C20,Captain,DH8D,NO,22,90,900,0,0,0,0
+C21,Captain,DH8D,NO,20,90,900,0,0,0,0
+C22,Captain,DH8D,NO,23,90,900,0,0,0,0
+C23,Captain,DH8D,NO,20,90,900,0,0,0,0
+C24,Captain,DH8D,NO,14,90,900,0,0,0,0
+C25,Captain,DH8D,NO,14,90,900,0,0,0,0
+C26,Captain,DH8D,NO,17,90,900,0,0,0,0
+C27,Captain,DH8D,NO,18,90,900,0,0,0,0
+C28,Captain,DH8D,NO,19,90,900,0,0,0,0
+C29,Captain,DH8D,NO,14,90,900,0,0,0,0
+C30,Captain,DH8D,NO,15,90,900,0,0,0,0
+C31,Captain,DH8D,NO,19,90,900,0,0,0,0
+C32,Captain,DH8D,NO,17,90,900,0,0,0,0
+C33,Captain,DH8D,NO,18,90,900,0,0,0,0
+C34,Captain,DH8D,NO,16,90,900,0,0,0,0
+C35,Captain,DH8D,NO,19,90,900,0,0,0,0
+C36,Captain,DH8D,NO,22,90,900,0,0,0,0
+C37,Captain,DH8D,NO,15,90,900,0,0,0,0
+C38,Captain,DH8D,NO,14,90,900,0,0,0,0
+C39,Captain,DH8D,NO,23,90,900,0,0,0,0
+C40,Captain,DH8D,NO,15,90,900,0,0,0,0
+C41,Captain,DH8D,NO,14,90,900,0,0,0,0
+C42,Captain,DH8D,NO,15,90,900,0,0,0,0
+C43,Captain,DH8D,NO,20,90,900,0,0,0,0
+C44,Captain,DH8D,NO,18,90,900,0,0,0,0
+C45,Captain,DH8D,NO,21,90,900,0,0,0,0
+C46,Captain,DH8D,NO,19,90,900,0,0,0,0
+C47,Captain,DH8D,NO,19,90,900,0,0,0,0
+C48,Captain,DH8D,NO,15,90,900,0,0,0,0
+C49,Captain,DH8D,NO,20,90,900,0,0,0,0
+C50,Captain,DH8D,NO,15,90,900,0,0,0,0
+C51,Captain,DH8D,NO,18,90,900,0,0,0,0
+C52,Captain,DH8D,NO,20,90,900,0,0,0,0
+C53,Captain,DH8D,NO,15,90,900,0,0,0,0
+C54,Captain,DH8D,NO,23,90,900,0,0,0,0
+C55,Captain,DH8D,NO,22,90,900,0,0,0,0
+C56,Captain,DH8D,NO,19,90,900,0,0,0,0
+C57,Captain,DH8D,NO,17,90,900,0,0,0,0
+C58,Captain,DH8D,NO,22,90,900,0,0,0,0
+C59,Captain,DH8D,NO,23,90,900,0,0,0,0
+C60,Captain,DH8D,NO,19,90,900,0,0,0,0
+C61,Captain,DH8D,NO,19,90,900,0,0,0,0
+C62,Captain,DH8D,NO,15,90,900,0,0,0,0
+C63,Captain,DH8D,NO,15,90,900,0,0,0,0
+C64,Captain,DH8D,NO,17,90,900,0,0,0,0
+C65,Captain,DH8D,NO,19,90,900,0,0,0,0
+C66,Captain,DH8D,NO,17,90,900,0,0,0,0
+C67,Captain,DH8D,NO,14,90,900,0,0,0,0
+C68,Captain,DH8D,NO,19,90,900,0,0,0,0
+C69,Captain,DH8D,NO,20,90,900,0,0,0,0
+C70,Captain,DH8D,NO,19,90,900,0,0,0,0
+C71,Captain,DH8D,NO,15,90,900,0,0,0,0
+C72,Captain,DH8D,NO,18,90,900,0,0,0,0
+C73,Captain,DH8D,NO,19,90,900,0,0,0,0
+C74,Captain,DH8D,NO,19,90,900,0,0,0,0
+C75,Captain,DH8D,NO,15,90,900,0,0,0,0
+C76,Captain,DH8D,NO,21,90,900,0,0,0,0
+C77,Captain,DH8D,NO,15,90,900,0,0,0,0
+C78,Captain,DH8D,NO,19,90,900,0,0,0,0
+C79,Captain,DH8D,NO,17,90,900,0,0,0,0
+C80,Captain,DH8D,NO,21,90,900,0,0,0,0
+C81,Captain,B38M,NO,22,90,900,0,0,0,0
+C82,Captain,B38M,NO,18,90,900,0,0,0,0
+C83,Captain,B38M,NO,18,90,900,0,0,0,0
+C84,Captain,B38M,NO,15,90,900,0,0,0,0
+C85,Captain,B38M,NO,20,90,900,0,0,0,0
+C86,Captain,B38M,NO,16,90,900,0,0,0,0
+C87,Captain,B38M,NO,21,90,900,0,0,0,0
+C88,Captain,B38M,NO,15,90,900,0,0,0,0
+C89,Captain,B38M,NO,22,90,900,0,0,0,0
+C90,Captain,B737,NO,20,90,900,0,0,0,0
+C91,Captain,B737,NO,17,90,900,0,0,0,0
+C92,Captain,B737,NO,23,90,900,0,0,0,0
+C93,Captain,B737,NO,20,90,900,0,0,0,0
+C94,Captain,B737,NO,16,90,900,0,0,0,0
+C95,Captain,B737,NO,14,90,900,0,0,0,0
+C96,Captain,B737,NO,16,90,900,0,0,0,0
+C97,Captain,B737,NO,18,90,900,0,0,0,0
+C98,Captain,B737,NO,23,90,900,0,0,0,0
+C99,Captain,B737,NO,21,90,900,0,0,0,0
+C100,Captain,B737,NO,22,90,900,0,0,0,0
+C101,Captain,B737,NO,17,90,900,0,0,0,0
+C102,Captain,B737,NO,19,90,900,0,0,0,0
+C103,Captain,B737,NO,22,90,900,0,0,0,0
+C104,Captain,B737,NO,19,90,900,0,0,0,0
+C105,Captain,B737,NO,19,90,900,0,0,0,0
+C106,Captain,B737,NO,20,90,900,0,0,0,0
+C107,Captain,B737,NO,18,90,900,0,0,0,0
+C108,Captain,B737,NO,19,90,900,0,0,0,0
+C109,Captain,B737,NO,15,90,900,0,0,0,0
+C110,Captain,B737,NO,14,90,900,0,0,0,0
+FO1,First Officer,B738,NO,9,90,900,0,0,0,0
+FO2,First Officer,B738,NO,5,90,900,0,0,0,0
+FO3,First Officer,B738,NO,12,90,900,0,0,0,0
+FO4,First Officer,B738,NO,15,90,900,0,0,0,0
+FO5,First Officer,B738,NO,5,90,900,0,0,0,0
+FO6,First Officer,B738,NO,14,90,900,0,0,0,0
+FO7,First Officer,B738,NO,6,90,900,0,0,0,0
+FO8,First Officer,B738,NO,13,90,900,0,0,0,0
+FO9,First Officer,B738,NO,8,90,900,0,0,0,0
+FO10,First Officer,B738,NO,14,90,900,0,0,0,0
+FO11,First Officer,B738,NO,10,90,900,0,0,0,0
+FO12,First Officer,B738,NO,7,90,900,0,0,0,0
+FO13,First Officer,B738,NO,12,90,900,0,0,0,0
+FO14,First Officer,B738,NO,6,90,900,0,0,0,0
+FO15,First Officer,B738,NO,9,90,900,0,0,0,0
+FO16,First Officer,B738,NO,10,90,900,0,0,0,0
+FO17,First Officer,B738,NO,13,90,900,0,0,0,0
+FO18,First Officer,DH8D,NO,5,90,900,0,0,0,0
+FO19,First Officer,DH8D,NO,6,90,900,0,0,0,0
+FO20,First Officer,DH8D,NO,5,90,900,0,0,0,0
+FO21,First Officer,DH8D,NO,10,90,900,0,0,0,0
+FO22,First Officer,DH8D,NO,6,90,900,0,0,0,0
+FO23,First Officer,DH8D,NO,13,90,900,0,0,0,0
+FO24,First Officer,DH8D,NO,5,90,900,0,0,0,0
+FO25,First Officer,DH8D,NO,8,90,900,0,0,0,0
+FO26,First Officer,DH8D,NO,9,90,900,0,0,0,0
+FO27,First Officer,DH8D,NO,12,90,900,0,0,0,0
+FO28,First Officer,DH8D,NO,14,90,900,0,0,0,0
+FO29,First Officer,DH8D,NO,11,90,900,0,0,0,0
+FO30,First Officer,DH8D,NO,7,90,900,0,0,0,0
+FO31,First Officer,DH8D,NO,10,90,900,0,0,0,0
+FO32,First Officer,DH8D,NO,9,90,900,0,0,0,0
+FO33,First Officer,DH8D,NO,13,90,900,0,0,0,0
+FO34,First Officer,DH8D,NO,4,90,900,0,0,0,0
+FO35,First Officer,DH8D,NO,7,90,900,0,0,0,0
+FO36,First Officer,DH8D,NO,8,90,900,0,0,0,0
+FO37,First Officer,DH8D,NO,11,90,900,0,0,0,0
+FO38,First Officer,DH8D,NO,11,90,900,0,0,0,0
+FO39,First Officer,DH8D,NO,9,90,900,0,0,0,0
+FO40,First Officer,DH8D,NO,8,90,900,0,0,0,0
+FO41,First Officer,DH8D,NO,6,90,900,0,0,0,0
+FO42,First Officer,DH8D,NO,5,90,900,0,0,0,0
+FO43,First Officer,DH8D,NO,6,90,900,0,0,0,0
+FO44,First Officer,DH8D,NO,5,90,900,0,0,0,0
+FO45,First Officer,DH8D,NO,12,90,900,0,0,0,0
+FO46,First Officer,DH8D,NO,12,90,900,0,0,0,0
+FO47,First Officer,DH8D,NO,7,90,900,0,0,0,0
+FO48,First Officer,DH8D,NO,12,90,900,0,0,0,0
+FO49,First Officer,DH8D,NO,12,90,900,0,0,0,0
+FO50,First Officer,DH8D,NO,15,90,900,0,0,0,0
+FO51,First Officer,DH8D,NO,6,90,900,0,0,0,0
+FO52,First Officer,DH8D,NO,4,90,900,0,0,0,0
+FO53,First Officer,DH8D,NO,8,90,900,0,0,0,0
+FO54,First Officer,DH8D,NO,14,90,900,0,0,0,0
+FO55,First Officer,DH8D,NO,13,90,900,0,0,0,0
+FO56,First Officer,DH8D,NO,14,90,900,0,0,0,0
+FO57,First Officer,DH8D,NO,10,90,900,0,0,0,0
+FO58,First Officer,DH8D,NO,6,90,900,0,0,0,0
+FO59,First Officer,DH8D,NO,6,90,900,0,0,0,0
+FO60,First Officer,DH8D,NO,4,90,900,0,0,0,0
+FO61,First Officer,DH8D,NO,5,90,900,0,0,0,0
+FO62,First Officer,DH8D,NO,6,90,900,0,0,0,0
+FO63,First Officer,DH8D,NO,4,90,900,0,0,0,0
+FO64,First Officer,DH8D,NO,8,90,900,0,0,0,0
+FO65,First Officer,DH8D,NO,14,90,900,0,0,0,0
+FO66,First Officer,DH8D,NO,8,90,900,0,0,0,0
+FO67,First Officer,DH8D,NO,6,90,900,0,0,0,0
+FO68,First Officer,DH8D,NO,15,90,900,0,0,0,0
+FO69,First Officer,DH8D,NO,6,90,900,0,0,0,0
+FO70,First Officer,DH8D,NO,13,90,900,0,0,0,0
+FO71,First Officer,DH8D,NO,12,90,900,0,0,0,0
+FO72,First Officer,DH8D,NO,4,90,900,0,0,0,0
+FO73,First Officer,DH8D,NO,10,90,900,0,0,0,0
+FO74,First Officer,DH8D,NO,6,90,900,0,0,0,0
+FO75,First Officer,DH8D,NO,10,90,900,0,0,0,0
+FO76,First Officer,DH8D,NO,5,90,900,0,0,0,0
+FO77,First Officer,DH8D,NO,9,90,900,0,0,0,0
+FO78,First Officer,DH8D,NO,5,90,900,0,0,0,0
+FO79,First Officer,DH8D,NO,11,90,900,0,0,0,0
+FO80,First Officer,DH8D,NO,4,90,900,0,0,0,0
+FO81,First Officer,B38M,NO,14,90,900,0,0,0,0
+FO82,First Officer,B38M,NO,6,90,900,0,0,0,0
+FO83,First Officer,B38M,NO,4,90,900,0,0,0,0
+FO84,First Officer,B38M,NO,7,90,900,0,0,0,0
+FO85,First Officer,B38M,NO,13,90,900,0,0,0,0
+FO86,First Officer,B38M,NO,13,90,900,0,0,0,0
+FO87,First Officer,B38M,NO,14,90,900,0,0,0,0
+FO88,First Officer,B38M,NO,4,90,900,0,0,0,0
+FO89,First Officer,B38M,NO,6,90,900,0,0,0,0
+FO90,First Officer,B737,NO,6,90,900,0,0,0,0
+FO91,First Officer,B737,NO,10,90,900,0,0,0,0
+FO92,First Officer,B737,NO,9,90,900,0,0,0,0
+FO93,First Officer,B737,NO,9,90,900,0,0,0,0
+FO94,First Officer,B737,NO,15,90,900,0,0,0,0
+FO95,First Officer,B737,NO,6,90,900,0,0,0,0
+FO96,First Officer,B737,NO,13,90,900,0,0,0,0
+FO97,First Officer,B737,NO,4,90,900,0,0,0,0
+FO98,First Officer,B737,NO,7,90,900,0,0,0,0
+FO99,First Officer,B737,NO,4,90,900,0,0,0,0
+FO100,First Officer,B737,NO,6,90,900,0,0,0,0
+FO101,First Officer,B737,NO,6,90,900,0,0,0,0
+FO102,First Officer,B737,NO,11,90,900,0,0,0,0
+FO103,First Officer,B737,NO,12,90,900,0,0,0,0
+FO104,First Officer,B737,NO,13,90,900,0,0,0,0
+FO105,First Officer,B737,NO,11,90,900,0,0,0,0
+FO106,First Officer,B737,NO,10,90,900,0,0,0,0
+FO107,First Officer,B737,NO,4,90,900,0,0,0,0
+FO108,First Officer,B737,NO,7,90,900,0,0,0,0
+FO109,First Officer,B737,NO,6,90,900,0,0,0,0
+FO110,First Officer,B737,NO,11,90,900,0,0,0,0
+FA1,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA2,Flight Attendant,ALL,NO,11,90,900,0,0,0,0
+FA3,Flight Attendant,ALL,NO,16,90,900,0,0,0,0
+FA4,Flight Attendant,ALL,NO,3,90,900,0,0,0,0
+FA5,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA6,Flight Attendant,ALL,NO,24,90,900,0,0,0,0
+FA7,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA8,Flight Attendant,ALL,NO,17,90,900,0,0,0,0
+FA9,Flight Attendant,ALL,NO,20,90,900,0,0,0,0
+FA10,Flight Attendant,ALL,NO,2,90,900,0,0,0,0
+FA11,Flight Attendant,ALL,NO,1,90,900,0,0,0,0
+FA12,Flight Attendant,ALL,NO,12,90,900,0,0,0,0
+FA13,Flight Attendant,ALL,YES,12,90,900,0,0,0,0
+FA14,Flight Attendant,ALL,NO,24,90,900,0,0,0,0
+FA15,Flight Attendant,ALL,NO,9,90,900,0,0,0,0
+FA16,Flight Attendant,ALL,NO,1,90,900,0,0,0,0
+FA17,Flight Attendant,ALL,NO,24,90,900,0,0,0,0
+FA18,Flight Attendant,ALL,YES,17,90,900,0,0,0,0
+FA19,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA20,Flight Attendant,ALL,NO,7,90,900,0,0,0,0
+FA21,Flight Attendant,ALL,NO,3,90,900,0,0,0,0
+FA22,Flight Attendant,ALL,NO,1,90,900,0,0,0,0
+FA23,Flight Attendant,ALL,NO,7,90,900,0,0,0,0
+FA24,Flight Attendant,ALL,YES,17,90,900,0,0,0,0
+FA25,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA26,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA27,Flight Attendant,ALL,NO,4,90,900,0,0,0,0
+FA28,Flight Attendant,ALL,YES,13,90,900,0,0,0,0
+FA29,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA30,Flight Attendant,ALL,YES,7,90,900,0,0,0,0
+FA31,Flight Attendant,ALL,YES,15,90,900,0,0,0,0
+FA32,Flight Attendant,ALL,NO,12,90,900,0,0,0,0
+FA33,Flight Attendant,ALL,YES,19,90,900,0,0,0,0
+FA34,Flight Attendant,ALL,NO,24,90,900,0,0,0,0
+FA35,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA36,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA37,Flight Attendant,ALL,NO,16,90,900,0,0,0,0
+FA38,Flight Attendant,ALL,NO,9,90,900,0,0,0,0
+FA39,Flight Attendant,ALL,NO,5,90,900,0,0,0,0
+FA40,Flight Attendant,ALL,NO,1,90,900,0,0,0,0
+FA41,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA42,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA43,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA44,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA45,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA46,Flight Attendant,ALL,NO,5,90,900,0,0,0,0
+FA47,Flight Attendant,ALL,NO,6,90,900,0,0,0,0
+FA48,Flight Attendant,ALL,YES,25,90,900,0,0,0,0
+FA49,Flight Attendant,ALL,NO,11,90,900,0,0,0,0
+FA50,Flight Attendant,ALL,NO,7,90,900,0,0,0,0
+FA51,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA52,Flight Attendant,ALL,NO,20,90,900,0,0,0,0
+FA53,Flight Attendant,ALL,NO,6,90,900,0,0,0,0
+FA54,Flight Attendant,ALL,NO,7,90,900,0,0,0,0
+FA55,Flight Attendant,ALL,NO,18,90,900,0,0,0,0
+FA56,Flight Attendant,ALL,YES,8,90,900,0,0,0,0
+FA57,Flight Attendant,ALL,NO,13,90,900,0,0,0,0
+FA58,Flight Attendant,ALL,NO,9,90,900,0,0,0,0
+FA59,Flight Attendant,ALL,YES,20,90,900,0,0,0,0
+FA60,Flight Attendant,ALL,NO,24,90,900,0,0,0,0
+FA61,Flight Attendant,ALL,NO,11,90,900,0,0,0,0
+FA62,Flight Attendant,ALL,NO,17,90,900,0,0,0,0
+FA63,Flight Attendant,ALL,NO,12,90,900,0,0,0,0
+FA64,Flight Attendant,ALL,NO,13,90,900,0,0,0,0
+FA65,Flight Attendant,ALL,YES,22,90,900,0,0,0,0
+FA66,Flight Attendant,ALL,NO,23,90,900,0,0,0,0
+FA67,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA68,Flight Attendant,ALL,YES,22,90,900,0,0,0,0
+FA69,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA70,Flight Attendant,ALL,NO,16,90,900,0,0,0,0
+FA71,Flight Attendant,ALL,YES,16,90,900,0,0,0,0
+FA72,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA73,Flight Attendant,ALL,NO,7,90,900,0,0,0,0
+FA74,Flight Attendant,ALL,NO,20,90,900,0,0,0,0
+FA75,Flight Attendant,ALL,YES,4,90,900,0,0,0,0
+FA76,Flight Attendant,ALL,NO,9,90,900,0,0,0,0
+FA77,Flight Attendant,ALL,NO,13,90,900,0,0,0,0
+FA78,Flight Attendant,ALL,NO,18,90,900,0,0,0,0
+FA79,Flight Attendant,ALL,YES,14,90,900,0,0,0,0
+FA80,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA81,Flight Attendant,ALL,NO,16,90,900,0,0,0,0
+FA82,Flight Attendant,ALL,NO,2,90,900,0,0,0,0
+FA83,Flight Attendant,ALL,YES,6,90,900,0,0,0,0
+FA84,Flight Attendant,ALL,YES,16,90,900,0,0,0,0
+FA85,Flight Attendant,ALL,YES,6,90,900,0,0,0,0
+FA86,Flight Attendant,ALL,YES,5,90,900,0,0,0,0
+FA87,Flight Attendant,ALL,NO,9,90,900,0,0,0,0
+FA88,Flight Attendant,ALL,YES,17,90,900,0,0,0,0
+FA89,Flight Attendant,ALL,NO,11,90,900,0,0,0,0
+FA90,Flight Attendant,ALL,NO,12,90,900,0,0,0,0
+FA91,Flight Attendant,ALL,NO,18,90,900,0,0,0,0
+FA92,Flight Attendant,ALL,NO,11,90,900,0,0,0,0
+FA93,Flight Attendant,ALL,NO,17,90,900,0,0,0,0
+FA94,Flight Attendant,ALL,YES,1,90,900,0,0,0,0
+FA95,Flight Attendant,ALL,NO,10,90,900,0,0,0,0
+FA96,Flight Attendant,ALL,YES,15,90,900,0,0,0,0
+FA97,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA98,Flight Attendant,ALL,NO,10,90,900,0,0,0,0
+FA99,Flight Attendant,ALL,YES,20,90,900,0,0,0,0
+FA100,Flight Attendant,ALL,NO,23,90,900,0,0,0,0
+FA101,Flight Attendant,ALL,NO,1,90,900,0,0,0,0
+FA102,Flight Attendant,ALL,YES,23,90,900,0,0,0,0
+FA103,Flight Attendant,ALL,YES,5,90,900,0,0,0,0
+FA104,Flight Attendant,ALL,NO,19,90,900,0,0,0,0
+FA105,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA106,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA107,Flight Attendant,ALL,NO,10,90,900,0,0,0,0
+FA108,Flight Attendant,ALL,YES,25,90,900,0,0,0,0
+FA109,Flight Attendant,ALL,YES,2,90,900,0,0,0,0
+FA110,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA111,Flight Attendant,ALL,NO,12,90,900,0,0,0,0
+FA112,Flight Attendant,ALL,NO,22,90,900,0,0,0,0
+FA113,Flight Attendant,ALL,NO,19,90,900,0,0,0,0
+FA114,Flight Attendant,ALL,NO,17,90,900,0,0,0,0
+FA115,Flight Attendant,ALL,NO,4,90,900,0,0,0,0
+FA116,Flight Attendant,ALL,NO,10,90,900,0,0,0,0
+FA117,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA118,Flight Attendant,ALL,NO,16,90,900,0,0,0,0
+FA119,Flight Attendant,ALL,YES,2,90,900,0,0,0,0
+FA120,Flight Attendant,ALL,NO,18,90,900,0,0,0,0
+FA121,Flight Attendant,ALL,YES,4,90,900,0,0,0,0
+FA122,Flight Attendant,ALL,NO,13,90,900,0,0,0,0
+FA123,Flight Attendant,ALL,NO,10,90,900,0,0,0,0
+FA124,Flight Attendant,ALL,NO,6,90,900,0,0,0,0
+FA125,Flight Attendant,ALL,NO,14,90,900,0,0,0,0
+FA126,Flight Attendant,ALL,YES,20,90,900,0,0,0,0
+FA127,Flight Attendant,ALL,NO,12,90,900,0,0,0,0
+FA128,Flight Attendant,ALL,NO,20,90,900,0,0,0,0
+FA129,Flight Attendant,ALL,YES,24,90,900,0,0,0,0
+FA130,Flight Attendant,ALL,NO,12,90,900,0,0,0,0
+FA131,Flight Attendant,ALL,NO,22,90,900,0,0,0,0
+FA132,Flight Attendant,ALL,NO,19,90,900,0,0,0,0
+FA133,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA134,Flight Attendant,ALL,NO,23,90,900,0,0,0,0
+FA135,Flight Attendant,ALL,YES,13,90,900,0,0,0,0
+FA136,Flight Attendant,ALL,NO,5,90,900,0,0,0,0
+FA137,Flight Attendant,ALL,YES,5,90,900,0,0,0,0
+FA138,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA139,Flight Attendant,ALL,YES,7,90,900,0,0,0,0
+FA140,Flight Attendant,ALL,YES,5,90,900,0,0,0,0
+FA141,Flight Attendant,ALL,NO,17,90,900,0,0,0,0
+FA142,Flight Attendant,ALL,YES,9,90,900,0,0,0,0
+FA143,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA144,Flight Attendant,ALL,NO,18,90,900,0,0,0,0
+FA145,Flight Attendant,ALL,YES,12,90,900,0,0,0,0
+FA146,Flight Attendant,ALL,YES,18,90,900,0,0,0,0
+FA147,Flight Attendant,ALL,NO,3,90,900,0,0,0,0
+FA148,Flight Attendant,ALL,NO,9,90,900,0,0,0,0
+FA149,Flight Attendant,ALL,NO,10,90,900,0,0,0,0
+FA150,Flight Attendant,ALL,NO,17,90,900,0,0,0,0
+FA151,Flight Attendant,ALL,YES,10,90,900,0,0,0,0
+FA152,Flight Attendant,ALL,NO,2,90,900,0,0,0,0
+FA153,Flight Attendant,ALL,NO,10,90,900,0,0,0,0
+FA154,Flight Attendant,ALL,NO,17,90,900,0,0,0,0
+FA155,Flight Attendant,ALL,NO,2,90,900,0,0,0,0
+FA156,Flight Attendant,ALL,NO,23,90,900,0,0,0,0
+FA157,Flight Attendant,ALL,NO,23,90,900,0,0,0,0
+FA158,Flight Attendant,ALL,YES,12,90,900,0,0,0,0
+FA159,Flight Attendant,ALL,NO,22,90,900,0,0,0,0
+FA160,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA161,Flight Attendant,ALL,NO,5,90,900,0,0,0,0
+FA162,Flight Attendant,ALL,YES,4,90,900,0,0,0,0
+FA163,Flight Attendant,ALL,YES,24,90,900,0,0,0,0
+FA164,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA165,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA166,Flight Attendant,ALL,YES,14,90,900,0,0,0,0
+FA167,Flight Attendant,ALL,NO,14,90,900,0,0,0,0
+FA168,Flight Attendant,ALL,NO,24,90,900,0,0,0,0
+FA169,Flight Attendant,ALL,NO,2,90,900,0,0,0,0
+FA170,Flight Attendant,ALL,NO,14,90,900,0,0,0,0
+FA171,Flight Attendant,ALL,NO,18,90,900,0,0,0,0
+FA172,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA173,Flight Attendant,ALL,YES,12,90,900,0,0,0,0
+FA174,Flight Attendant,ALL,NO,3,90,900,0,0,0,0
+FA175,Flight Attendant,ALL,YES,22,90,900,0,0,0,0
+FA176,Flight Attendant,ALL,YES,4,90,900,0,0,0,0
+FA177,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA178,Flight Attendant,ALL,NO,11,90,900,0,0,0,0
+FA179,Flight Attendant,ALL,YES,9,90,900,0,0,0,0
+FA180,Flight Attendant,ALL,NO,7,90,900,0,0,0,0
+FA181,Flight Attendant,ALL,NO,24,90,900,0,0,0,0
+FA182,Flight Attendant,ALL,NO,14,90,900,0,0,0,0
+FA183,Flight Attendant,ALL,NO,2,90,900,0,0,0,0
+FA184,Flight Attendant,ALL,NO,1,90,900,0,0,0,0
+FA185,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA186,Flight Attendant,ALL,NO,24,90,900,0,0,0,0
+FA187,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA188,Flight Attendant,ALL,NO,22,90,900,0,0,0,0
+FA189,Flight Attendant,ALL,NO,20,90,900,0,0,0,0
+FA190,Flight Attendant,ALL,NO,12,90,900,0,0,0,0
+FA191,Flight Attendant,ALL,NO,18,90,900,0,0,0,0
+FA192,Flight Attendant,ALL,NO,4,90,900,0,0,0,0
+FA193,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA194,Flight Attendant,ALL,YES,20,90,900,0,0,0,0
+FA195,Flight Attendant,ALL,NO,1,90,900,0,0,0,0
+FA196,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA197,Flight Attendant,ALL,NO,1,90,900,0,0,0,0
+FA198,Flight Attendant,ALL,YES,5,90,900,0,0,0,0
+FA199,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA200,Flight Attendant,ALL,NO,24,90,900,0,0,0,0
+FA201,Flight Attendant,ALL,NO,13,90,900,0,0,0,0
+FA202,Flight Attendant,ALL,YES,25,90,900,0,0,0,0
+FA203,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA204,Flight Attendant,ALL,NO,5,90,900,0,0,0,0
+FA205,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA206,Flight Attendant,ALL,YES,4,90,900,0,0,0,0
+FA207,Flight Attendant,ALL,NO,2,90,900,0,0,0,0
+FA208,Flight Attendant,ALL,YES,25,90,900,0,0,0,0
+FA209,Flight Attendant,ALL,NO,9,90,900,0,0,0,0
+FA210,Flight Attendant,ALL,YES,5,90,900,0,0,0,0
+FA211,Flight Attendant,ALL,NO,6,90,900,0,0,0,0
+FA212,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA213,Flight Attendant,ALL,NO,4,90,900,0,0,0,0
+FA214,Flight Attendant,ALL,YES,16,90,900,0,0,0,0
+FA215,Flight Attendant,ALL,NO,10,90,900,0,0,0,0
+FA216,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA217,Flight Attendant,ALL,NO,12,90,900,0,0,0,0
+FA218,Flight Attendant,ALL,NO,18,90,900,0,0,0,0
+FA219,Flight Attendant,ALL,NO,3,90,900,0,0,0,0
+FA220,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA221,Flight Attendant,ALL,NO,17,90,900,0,0,0,0
+FA222,Flight Attendant,ALL,NO,14,90,900,0,0,0,0
+FA223,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA224,Flight Attendant,ALL,NO,11,90,900,0,0,0,0
+FA225,Flight Attendant,ALL,YES,9,90,900,0,0,0,0
+FA226,Flight Attendant,ALL,YES,12,90,900,0,0,0,0
+FA227,Flight Attendant,ALL,NO,22,90,900,0,0,0,0
+FA228,Flight Attendant,ALL,NO,1,90,900,0,0,0,0
+FA229,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA230,Flight Attendant,ALL,NO,23,90,900,0,0,0,0
+FA231,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA232,Flight Attendant,ALL,NO,1,90,900,0,0,0,0
+FA233,Flight Attendant,ALL,NO,20,90,900,0,0,0,0
+FA234,Flight Attendant,ALL,NO,9,90,900,0,0,0,0
+FA235,Flight Attendant,ALL,YES,3,90,900,0,0,0,0
+FA236,Flight Attendant,ALL,NO,22,90,900,0,0,0,0
+FA237,Flight Attendant,ALL,NO,14,90,900,0,0,0,0
+FA238,Flight Attendant,ALL,NO,24,90,900,0,0,0,0
+FA239,Flight Attendant,ALL,NO,14,90,900,0,0,0,0
+FA240,Flight Attendant,ALL,NO,3,90,900,0,0,0,0
+FA241,Flight Attendant,ALL,YES,10,90,900,0,0,0,0
+FA242,Flight Attendant,ALL,NO,9,90,900,0,0,0,0
+FA243,Flight Attendant,ALL,YES,16,90,900,0,0,0,0
+FA244,Flight Attendant,ALL,NO,20,90,900,0,0,0,0
+FA245,Flight Attendant,ALL,NO,20,90,900,0,0,0,0
+FA246,Flight Attendant,ALL,NO,5,90,900,0,0,0,0
+FA247,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA248,Flight Attendant,ALL,NO,14,90,900,0,0,0,0
+FA249,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA250,Flight Attendant,ALL,YES,21,90,900,0,0,0,0
+FA251,Flight Attendant,ALL,YES,13,90,900,0,0,0,0
+FA252,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA253,Flight Attendant,ALL,YES,7,90,900,0,0,0,0
+FA254,Flight Attendant,ALL,NO,1,90,900,0,0,0,0
+FA255,Flight Attendant,ALL,NO,13,90,900,0,0,0,0
+FA256,Flight Attendant,ALL,NO,10,90,900,0,0,0,0
+FA257,Flight Attendant,ALL,NO,20,90,900,0,0,0,0
+FA258,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA259,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA260,Flight Attendant,ALL,NO,4,90,900,0,0,0,0
+FA261,Flight Attendant,ALL,YES,14,90,900,0,0,0,0
+FA262,Flight Attendant,ALL,NO,17,90,900,0,0,0,0
+FA263,Flight Attendant,ALL,NO,5,90,900,0,0,0,0
+FA264,Flight Attendant,ALL,NO,24,90,900,0,0,0,0
+FA265,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA266,Flight Attendant,ALL,NO,22,90,900,0,0,0,0
+FA267,Flight Attendant,ALL,NO,19,90,900,0,0,0,0
+FA268,Flight Attendant,ALL,NO,10,90,900,0,0,0,0
+FA269,Flight Attendant,ALL,NO,12,90,900,0,0,0,0
+FA270,Flight Attendant,ALL,NO,22,90,900,0,0,0,0
+FA271,Flight Attendant,ALL,YES,1,90,900,0,0,0,0
+FA272,Flight Attendant,ALL,YES,20,90,900,0,0,0,0
+FA273,Flight Attendant,ALL,YES,11,90,900,0,0,0,0
+FA274,Flight Attendant,ALL,NO,6,90,900,0,0,0,0
+FA275,Flight Attendant,ALL,NO,10,90,900,0,0,0,0
+FA276,Flight Attendant,ALL,NO,19,90,900,0,0,0,0
+FA277,Flight Attendant,ALL,YES,24,90,900,0,0,0,0
+FA278,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA279,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA280,Flight Attendant,ALL,YES,5,90,900,0,0,0,0
+FA281,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA282,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA283,Flight Attendant,ALL,YES,13,90,900,0,0,0,0
+FA284,Flight Attendant,ALL,YES,21,90,900,0,0,0,0
+FA285,Flight Attendant,ALL,NO,16,90,900,0,0,0,0
+FA286,Flight Attendant,ALL,YES,9,90,900,0,0,0,0
+FA287,Flight Attendant,ALL,NO,23,90,900,0,0,0,0
+FA288,Flight Attendant,ALL,NO,20,90,900,0,0,0,0
+FA289,Flight Attendant,ALL,NO,9,90,900,0,0,0,0
+FA290,Flight Attendant,ALL,YES,17,90,900,0,0,0,0
+FA291,Flight Attendant,ALL,NO,10,90,900,0,0,0,0
+FA292,Flight Attendant,ALL,YES,2,90,900,0,0,0,0
+FA293,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA294,Flight Attendant,ALL,NO,23,90,900,0,0,0,0
+FA295,Flight Attendant,ALL,NO,24,90,900,0,0,0,0
+FA296,Flight Attendant,ALL,YES,21,90,900,0,0,0,0
+FA297,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA298,Flight Attendant,ALL,NO,4,90,900,0,0,0,0
+FA299,Flight Attendant,ALL,NO,15,90,900,0,0,0,0
+FA300,Flight Attendant,ALL,NO,9,90,900,0,0,0,0
+FA301,Flight Attendant,ALL,YES,18,90,900,0,0,0,0
+FA302,Flight Attendant,ALL,YES,17,90,900,0,0,0,0
+FA303,Flight Attendant,ALL,NO,14,90,900,0,0,0,0
+FA304,Flight Attendant,ALL,NO,23,90,900,0,0,0,0
+FA305,Flight Attendant,ALL,NO,2,90,900,0,0,0,0
+FA306,Flight Attendant,ALL,YES,3,90,900,0,0,0,0
+FA307,Flight Attendant,ALL,NO,8,90,900,0,0,0,0
+FA308,Flight Attendant,ALL,NO,17,90,900,0,0,0,0
+FA309,Flight Attendant,ALL,NO,3,90,900,0,0,0,0
+FA310,Flight Attendant,ALL,NO,20,90,900,0,0,0,0
+FA311,Flight Attendant,ALL,NO,2,90,900,0,0,0,0
+FA312,Flight Attendant,ALL,NO,6,90,900,0,0,0,0
+FA313,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA314,Flight Attendant,ALL,YES,13,90,900,0,0,0,0
+FA315,Flight Attendant,ALL,NO,4,90,900,0,0,0,0
+FA316,Flight Attendant,ALL,YES,20,90,900,0,0,0,0
+FA317,Flight Attendant,ALL,YES,24,90,900,0,0,0,0
+FA318,Flight Attendant,ALL,YES,4,90,900,0,0,0,0
+FA319,Flight Attendant,ALL,YES,22,90,900,0,0,0,0
+FA320,Flight Attendant,ALL,YES,9,90,900,0,0,0,0
+FA321,Flight Attendant,ALL,NO,22,90,900,0,0,0,0
+FA322,Flight Attendant,ALL,NO,25,90,900,0,0,0,0
+FA323,Flight Attendant,ALL,NO,6,90,900,0,0,0,0
+FA324,Flight Attendant,ALL,YES,2,90,900,0,0,0,0
+FA325,Flight Attendant,ALL,NO,4,90,900,0,0,0,0
+FA326,Flight Attendant,ALL,NO,21,90,900,0,0,0,0
+FA327,Flight Attendant,ALL,YES,16,90,900,0,0,0,0
+FA328,Flight Attendant,ALL,YES,5,90,900,0,0,0,0
+FA329,Flight Attendant,ALL,NO,14,90,900,0,0,0,0
+FA330,Flight Attendant,ALL,NO,3,90,900,0,0,0,0
